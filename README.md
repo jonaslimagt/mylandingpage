@@ -1,0 +1,1 @@
+Creation of a simple landing page from the second Foundations project of The Odin Project. Maybe new updates in the future.
