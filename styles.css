@@ -8,8 +8,8 @@ header, .hero {
 }
 
 .header_container, .hero_container, .info, .quote_container, .call {
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -67,7 +67,7 @@ header, .hero {
 
 .temp_box {
     height: 320px;
-    width: 512px;
+    width: 480px;
     background-color: gainsboro;
     display: flex;
     justify-content: center;
